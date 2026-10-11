@@ -254,4 +254,4 @@ This repository serves as the official landing page for Adobe Presenter. The sof
 **Get the most recent version of Adobe Presenter today!**
 
 ---
-**Last updated:** 2026-10-10 23:16:35 UTC
+**Last updated:** 2026-10-11 04:18:14 UTC
